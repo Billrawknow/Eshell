@@ -1,5 +1,4 @@
 #include "shell.h"
-
 /**
  * main - function that checks if our shell is called
  *
