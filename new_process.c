@@ -19,6 +19,7 @@ int new_process(char **args)
   {
    perror("error in new_process: child process");
   }
+  
   exit(EXIT_FAILURE);
  }
  else if (pid < 0)
