@@ -21,7 +21,7 @@ This project is a simple shell implementation, also known as a command-line inte
 ## Files
 
 | Name | Description |
-| ------------------------------ | -------------------------------------------- |
+| ------------------------------ | -------------------------------------------- |..............|
 | shell.h | Header file program. |
 | main.c | Main function, interactive and non-interactive. |
 | new_procees.c | Function that creates a new process. |
