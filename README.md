@@ -18,6 +18,7 @@ This project is a simple shell implementation, also known as a command-line inte
 - C programming language: The shell is implemented using the C programming language, taking advantage of its low-level system access and standard libraries.
 - Operating system interfaces: The shell utilizes operating system interfaces, such as system calls, to interact with the underlying operating system and execute commands.
 
+
 ## Files
 
 | Name | Description |
