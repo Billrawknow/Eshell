@@ -4,7 +4,6 @@
  * read_stream - read a line from the stream
  *
  * Return: pointer that points the the read line
- * 
  */
 char *read_stream(void)
 {
